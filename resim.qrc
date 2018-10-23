@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/resim">
+        <file>0.png</file>
+        <file>1.png</file>
+        <file>2.png</file>
+        <file>3.png</file>
+        <file>4.png</file>
+        <file>5.png</file>
+        <file>yatayCizgi.png</file>
+        <file>arkaplan.png</file>
+    </qresource>
+</RCC>
